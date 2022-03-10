@@ -15,7 +15,7 @@ status-website:
   name: Ronniie.com
   introTitle: "**Welcome!**"
   introMessage: Coming Soon.
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
